@@ -1,0 +1,25 @@
+Hello there,
+
+Welcome to my third portfolio website. 
+This is a hypothetical day spa created to showcase my HTML, CSS and basic JavaScript skills.
+This website was primarily created to showcase my front-end developer skills.
+
+This website includes:
+index.html - navigation , brand name , slogan , copyright 
+about.html - navigation , explanation of the business  with css animation. 
+menu.html - flip cards with treatment menu to explain what the spa offers.
+booking.html - a front-end representation of a booking form. It includes a piece of javascript 
+to make the booking form slightly interactive.
+
+
+Styles:
+app.CSS - animations have been used in orfer to make the site interactive and fun.
+app.Js - basic JavaScript has been used to showcase my ability to use this particular language.
+
+
+Responsiveness: 
+This site has been created with responsive design in mind. The tablet , cell phone and desktop 
+are the main devices this website is created for.
+
+Thank you for the visit.
+Enjoy the viewing expierence.

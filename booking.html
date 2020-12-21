@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Loisir Day Spa</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="app.css">
+</head>
+
+<body class="about_body">
+
+
+    <section class="nav">
+        <nav>
+            <ul class="nav_main">
+                <a href="index.html">
+                    <li class="nav_link">Home</li>
+                </a>
+                <a href="about.html">
+                    <li class="nav_link">About</li>
+                </a>
+                <a href="menu.html">
+                    <li class="nav_link">Treatment Menu</li>
+                </a>
+                <a href="booking.html">
+                    <li class="nav_link">Book with us</li>
+                </a>
+            </ul>
+        </nav>
+    </section>
+    <section class="booking">
+
+        <form class="booking_block">
+            <input type="text" id="FName" class="booking_input" placeholder="First Name">
+            <input type="text" id="LName" class="booking_input" placeholder="Last Name">
+            <input type="email" required id="email" class="booking_input" placeholder="Email">
+            <input type="tel" id="Number" class="booking_input" placeholder="Telephone number">
+
+            <textarea cols="30" rows="10" placeholder="Which treatment would you like?"
+                class=" booking_textarea booking_input">
+            </textarea>
+            <Button class="booking_input booking_btn" id="btn">
+                Send
+            </Button>
+        </form>
+    </section>
+    <script src="app.js" async defer></script>
+</body>
+
+</html>
